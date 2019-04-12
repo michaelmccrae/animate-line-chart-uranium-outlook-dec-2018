@@ -1,0 +1,221 @@
+{
+ "name": "flare",
+ "children": [
+   {
+    "name": "Other",
+    "children": [
+     {
+      "name": "Australia",
+      "children": [
+        {"name": "ETFS Metal Securities Australia Ltd - ETFS Physical Gold", "value": 11.2},
+  {"name": "BetaShares Gold Bullion ETF Currency Hedged", "value": 1.3},
+  {"name": "ANZ ETFS Physical Gold ETF", "value": 0.2}
+      ]
+     },
+     {
+      "name": "Turkey",
+      "children": [
+        {"name": "Istanbul Gold Exchange Traded Fund", "value": 0.7},
+{"name": "Kuveyt Turk Katilim Bankasi A.S.B Tipi Altin Borsa Yatirim Fonu", "value": 0.1}
+      ]
+     },
+     {
+      "name": "South Africa",
+      "children": [
+        {"name": "NewGold Issuer Ltd", "value": 17.9},
+{"name": "AfricaGoldETF", "value": 0.2}
+      ]
+     }
+    ]
+  },
+   {
+    "name": "Asia",
+    "children": [
+     {
+      "name": "India",
+      "children": [
+        {"name": "Reliance ETF Gold BeES", "value": 8.1},
+{"name": "SBI-ETF Gold", "value": 2.2},
+{"name": "UTI-Gold Exchange Traded Fund", "value": 1.6},
+{"name": "HDFC Gold Exchange Traded Fund", "value": 1.6},
+{"name": "Kotak Gold ETF", "value": 1.3},
+{"name": "AXIS GOLD ETF", "value": 0.4},
+{"name": "ICICI Prudential Gold iWIN ETF", "value": 0.3},
+{"name": "Birla Sun Life Gold ETF", "value": 0.3},
+{"name": "IDBI Gold ETF", "value": 0.2},
+{"name": "Quantum Gold Fund", "value": 0.2},
+{"name": "Canara Robeco Gold Exchange Traded Fund", "value": 0.1},
+{"name": "Invesco India Gold Exchange Traded Fund", "value": 0.1}
+      ]
+     },
+     {
+      "name": "Thailand",
+      "children": [
+    {"name": "Thanachart Gold ETF", "value": 0.1}
+      ]
+     },
+     {
+      "name": "Maylasia",
+      "children": [
+    {"name": "TradePlus Shariah Gold Tracker", "value": 0.2}
+      ]
+     },
+     {
+      "name": "Japan",
+      "children": [
+      {"name": "Japan Physical Gold ETF", "value": 14.6}
+      ]
+     },
+     {
+      "name": "China",
+      "children": [
+        {"name": "Huaan Yifu Gold ETF", "value": 23.4},
+{"name": "Bosera Gold Exchange Trade Open-End Fund ETF", "value": 8.5},
+{"name": "Bosera Gold ETF I", "value": 4.6},
+{"name": "E Fund Gold Tradable Open-end Securities Investment Fund", "value": 3.7},
+{"name": "Guotai Gold ETF", "value": 2.2},
+{"name": "Bosera Gold ETF d", "value": 0.1}
+      ]
+     },
+     {
+      "name": "Hong Kong",
+      "children": [
+        {"name": "ValueGold ETF", "value": 2.3},
+{"name": "Hang Seng RMB Gold ETF", "value": 0.2}
+      ]
+     }
+    ]
+  },
+  {
+   "name": "North America",
+   "children": [
+    {
+     "name": "Canada",
+     "children": [
+       {"name": "Sprott Physical Gold & Silver Trust", "value": 40.8},
+       {"name": "Royal Canadian Mint - Canadian Gold Reserves", "value": 8.2},
+       {"name": "iShares Gold Bullion ETF", "value": 6.2},
+       {"name": "ISHARES GOLD BULLION FUND", "value": 2.3},
+       {"name": "BMG Gold Bullion Fund", "value": 2.1},
+       {"name": "BMG BullionFund", "value": 1.3},
+       {"name": "Ninepoint Gold Bullion Fund", "value": 1.2},
+       {"name": "Sprott Gold Bullion Fund", "value": 1.2}
+     ]
+    },
+    {
+     "name": "U.S.A.",
+     "children": [
+       {"name": "SPDR Gold Shares", "value": 784},
+ {"name": "iShares Gold Trust", "value": 301.5},
+ {"name": "Sprott Physical Gold Trust", "value": 49.3},
+ {"name": "Aberdeen Physical Swiss Gold Shares", "value": 21.1},
+ {"name": "SPDR Gold MiniShares Trust", "value": 15.5},
+ {"name": "Graniteshares Gold Trust", "value": 11.1},
+ {"name": "ETFS Physical Precious Metal Basket Shares", "value": 4.9},
+ {"name": "VanEck Merk Gold Shares", "value": 3.6},
+ {"name": "Perth Mint Physical Gold ETF", "value": 2.6},
+ {"name": "SPDR Long Dollar Gold Trust", "value": 0.7}
+     ]
+    }
+   ]
+ },
+  {
+   "name": "Europe",
+   "children": [
+     {
+      "name": "UK",
+      "children": [
+        {"name": "ETFS Physical Gold", "value": 164.2},
+{"name": "Invesco Physical Gold ETC", "value": 124.3},
+{"name": "iShares Physical Gold ETC", "value": 106.1},
+{"name": "Gold Bullion Securities Ltd", "value": 78.9},
+{"name": "ETFS Physical Swiss Gold", "value": 20},
+{"name": "ETFS GBP Daily Hedged Physical Gold", "value": 7},
+{"name": "ETFS Physical PM Basket", "value": 1.2}
+      ]
+     },
+    {
+     "name": "Liechtenstein",
+     "children": [
+       {"name": "Safe Port Physical Gold 95+ Fund", "value": 0.4},
+{"name": "Safe Port Precious Metals 95+ Fund", "value": 0.2},
+{"name": "SafePort PM Value Fund", "value": 0}
+     ]
+    },
+    {
+     "name": "Russia",
+     "children": [
+       {"name": "FinEx Gold ETF USD", "value": 0.4}
+     ]
+    },
+    {
+     "name": "Italy",
+     "children": [
+       {"name": "ETFS EUR Daily Hedged Physical Gold", "value": 11.3}
+     ]
+    },
+    {
+     "name": "Germany",
+     "children": [
+       {"name": "Xetra-Gold", "value": 192.4},
+{"name": "Xtrackers Physical Gold ETC EUR", "value": 58.9},
+{"name": "Xtrackers Physical Gold Euro Hedged ETC", "value": 43},
+{"name": "Xtrackers Physical Gold ETC", "value": 18.3},
+{"name": "EUWAX Gold", "value": 9.2},
+{"name": "Xtrackers Physical Gold GBP Hedged ETC", "value": 3.1},
+{"name": "EUWAX Gold II", "value": 2}
+     ]
+    },
+    {
+     "name": "Switzerland",
+     "children": [
+       {"name": "ZKB Gold ETF", "value": 63.3},
+{"name": "ZKB Gold ETF AA USD", "value": 33.3},
+{"name": "ZKB Gold ETF AA Hedged CHF", "value": 25},
+{"name": "UBS ETF CH-Gold CHF hedged CHF", "value": 19.8},
+{"name": "ZKB Gold ETF AA EUR", "value": 17.4},
+{"name": "Julius Baer Precious Metals Fund - JB Physical Gold Fund", "value": 12.2},
+{"name": "GAM Precious Metals - Physical Gold CHF A", "value": 10.2},
+{"name": "iShares Gold CH", "value": 9.8},
+{"name": "iShares Gold CHF Hedged CH", "value": 8.2},
+{"name": "Pictet CH Precious Metals Fund - Physical Gold", "value": 7.8},
+{"name": "ZKB Gold ETF AA Hedged EUR", "value": 6.6},
+{"name": "PICTET CH Physical Gold-ZDYUSD", "value": 6.2},
+{"name": "GAM Precious Metals - Physical Gold EUR A", "value": 6.1},
+{"name": "UBS ETF CH-Gold EUR hedged EUR A-dis", "value": 5.7},
+{"name": "CSIF CH II Gold Blue FB USD", "value": 4.7},
+{"name": "GAM Precious Metals - Physical Gold USD AX", "value": 4},
+{"name": "Credit Suisse Institutional Fund II CH - Gold Fund", "value": 3.9},
+{"name": "iShares Gold EUR Hedged CH", "value": 3.3},
+{"name": "CSIF CH II Gold Blue DH CHF", "value": 3.2},
+{"name": "CSIF CH II Gold Blue FH CHF", "value": 2.5},
+{"name": "Raiffeisen ETF - Solid Gold Ounces Hedged CHF", "value": 2.5},
+{"name": "Raiffeisen ETF - Solid Gold Ounces - AC", "value": 2.5},
+{"name": "PICTET CH Physical Gold-PDYUSD", "value": 2.4},
+{"name": "PICTET CH Physical Gold-RDYUSD", "value": 2},
+{"name": "PICTET CH Physical Gold-IDYEUR", "value": 1.5},
+{"name": "PICTET CH Physical Gold-PDYCHF", "value": 1.4},
+{"name": "GAM Precious Metals - Physical Gold CHF AX", "value": 1.1},
+{"name": "PICTET CH Physical Gold-IDYJPY", "value": 1.1},
+{"name": "Raiffeisen ETF - Solid Gold HSF CHF", "value": 1.1},
+{"name": "Raiffeisen ETF - Solid Gold H CHF", "value": 1.1},
+{"name": "GAM Precious Metals - Physical Gold EUR AX", "value": 0.9},
+{"name": "GAM Precious Metals - Physical Gold GBP A", "value": 0.7},
+{"name": "PICTET CH Physical Gold-PDYEUR", "value": 0.7},
+{"name": "PICTET CH Physical Gold-IDYCHF", "value": 0.6},
+{"name": "UBAM CH - Gold +", "value": 0.6},
+{"name": "Raiffeisen ETF - Solid Gold Ounces A USD", "value": 0.6},
+{"name": "GAM Precious Metals - Physical Gold GBP AX", "value": 0.6},
+{"name": "Raiffeisen ETF - Solid Gold A USD", "value": 0.3},
+{"name": "Raiffeisen ETF - Solid Gold", "value": 0.3},
+{"name": "ZKB Gold ETF AA GBP", "value": 0.3},
+{"name": "ZKB Gold ETF AA Hedged GBP", "value": 0.2},
+{"name": "PICTET CH Physical Gold-RDYEUR", "value": 0.1},
+{"name": "PICTET CH Physical Gold-RDYCHF", "value": 0},
+{"name": "PICTET CH Physical Gold-HIDYJPY", "value": 0}
+     ]
+    }
+   ]
+  }
+ ]
+}
